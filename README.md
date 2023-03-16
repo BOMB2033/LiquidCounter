@@ -17,4 +17,8 @@
         PINC4 (27) PINC5 (28) - пины для связи с микросхемой PCF8574A по I2C
 # Путь к HEX файлу 
         LiquidCounter/Debug/LiquidCounter.hex
-https://github.com/BOMB2033/LiquidCounter
+        https://github.com/BOMB2033/LiquidCounter
+# Видео обзор работы
+Есть баг, что при первом включении нужно подождать пока прогрузится надпись на экране, если она не успеет прогрузится то начинается мусор на экране 
+Но это возможно что только в протеусе
+        https://github.com/BOMB2033/LiquidCounter/blob/main/2023-03-16%2017-31-21.mkv
