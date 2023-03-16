@@ -17,4 +17,4 @@
         PINC4 (27) PINC5 (28) - пины для связи с микросхемой PCF8574A по I2C
 # Путь к HEX файлу 
         LiquidCounter/Debug/LiquidCounter.hex
-         
+https://github.com/BOMB2033/LiquidCounter
